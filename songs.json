@@ -1,0 +1,1172 @@
+[
+  {
+    "genre": "Classical",
+    "energy": "Uplifting",
+    "song": "Symphony No. 9 in D Minor, Op. 125 (Choral)",
+    "album": "Beethoven: Symphony No. 9",
+    "artist": "Ludwig van Beethoven",
+    "history": "Completed in 1824, Beethoven's Ninth Symphony is notable for being one of the first examples of a major composer using voices in a symphony.",
+    "philosophy": "Promotes ideals of freedom, peace, and solidarity."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Melancholic",
+    "song": "Requiem in D Minor, K. 626: Lacrimosa",
+    "album": "Mozart: Requiem",
+    "artist": "Wolfgang Amadeus Mozart",
+    "history": "Mozart composed part of the Requiem in D minor, K. 626 in 1791, the year of his death.",
+    "philosophy": "Reflects the solemnity of life and the inevitability of death."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Solemn",
+    "song": "Enigma Variations, Op. 36: Nimrod",
+    "album": "Elgar: Enigma Variations",
+    "artist": "Edward Elgar",
+    "history": "Elgar composed the Enigma Variations in 1898-1899, dedicating it to 'my friends pictured within', each variation being a musical sketch of one of his circle of close acquaintances.",
+    "philosophy": "Evokes the enduring nature of friendship and personal reflection."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Calming",
+    "song": "Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",
+    "album": "Bach: Cello Suites",
+    "artist": "Johann Sebastian Bach",
+    "history": "Composed during the Baroque period, these suites remain some of Bach's most famous works.",
+    "philosophy": "Represents the search for harmony and the beauty of structure."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Intense",
+    "song": "Symphony No. 6 in B Minor, Op. 74 (Pathétique)",
+    "album": "Tchaikovsky: Symphony No. 6",
+    "artist": "Pyotr Ilyich Tchaikovsky",
+    "history": "This symphony was composed in 1893 and premiered just nine days before the composer's death, which has led to much speculation about the symphony's intentions and emotions.",
+    "philosophy": "Conveys deep introspection and the turbulence of human emotion."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Ethereal",
+    "song": "Adagio for Strings, Op. 11",
+    "album": "Barber: Adagio for Strings",
+    "artist": "Samuel Barber",
+    "history": "Composed in 1936, it's one of the most recognizable pieces of American classical music, often associated with mourning and commemoration.",
+    "philosophy": "Embodies the profound sadness and the universal experience of grief."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Romantic",
+    "song": "Symphony No. 5: Adagietto",
+    "album": "Mahler: Symphony No. 5",
+    "artist": "Gustav Mahler",
+    "history": "This symphony, particularly the Adagietto, is known for its deeply emotional quality, often interpreted as Mahler's love song to his wife Alma.",
+    "philosophy": "Represents the complexity of love and the poignancy of emotional expression."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Reflective",
+    "song": "The Four Seasons, Concerto No. 4 in F Minor, RV 297 (Winter): II. Largo",
+    "album": "Vivaldi: The Four Seasons",
+    "artist": "Antonio Vivaldi",
+    "history": "Composed in 1723, Vivaldi's Four Seasons are among the most popular pieces in the classical music repertoire.",
+    "philosophy": "Illustrates the serene beauty of winter and the passage of time."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Soothing",
+    "song": "Gymnopédie No. 1",
+    "album": "Satie: Gymnopédies",
+    "artist": "Erik Satie",
+    "history": "Published in 1888, these short, atmospheric pieces are among Satie's most famous compositions, noted for their unconventional harmony and structure.",
+    "philosophy": "Encapsulates a sense of melancholic introspection and simplicity."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Dramatic",
+    "song": "The Firebird Suite: Finale",
+    "album": "Stravinsky: The Firebird",
+    "artist": "Igor Stravinsky",
+    "history": "This ballet score, written for the 1910 Paris season of Sergei Diaghilev's Ballets Russes, uses the story of the Firebird to evoke a narrative of magical rebirth and renewal.",
+    "philosophy": "Symbolizes resurrection and the transformative power of hope and courage."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Tranquil",
+    "song": "Clair de Lune",
+    "album": "Debussy: Suite Bergamasque",
+    "artist": "Claude Debussy",
+    "history": "Part of the Suite Bergamasque composed around 1890, 'Clair de Lune' is one of Debussy's most famous piano pieces, inspired by the poem of the same name by Paul Verlaine.",
+    "philosophy": "Evokes the quiet beauty of the moonlight, suggesting reflection and peace."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Inspiring",
+    "song": "Finlandia, Op. 26",
+    "album": "Sibelius: Finlandia",
+    "artist": "Jean Sibelius",
+    "history": "Composed in 1899 and revised in 1900, this tone poem was written for the Press Celebrations of 1899, a covert protest against increasing censorship from the Russian Empire.",
+    "philosophy": "A symbol of national struggle and triumph, encapsulating themes of liberation and patriotism."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Passionate",
+    "song": "Piano Concerto No. 2 in C Minor, Op. 18: II. Adagio sostenuto",
+    "album": "Rachmaninoff: Piano Concerto No. 2",
+    "artist": "Sergei Rachmaninoff",
+    "history": "Composed between 1900 and 1901, this concerto is one of Rachmaninoff's most enduringly popular pieces, reflecting his recovery from a severe depression.",
+    "philosophy": "Conveys deep emotional resilience and the beauty of human vulnerability."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Determined",
+    "song": "Nabucco: Chorus of the Hebrew Slaves (Va, pensiero)",
+    "album": "Verdi: Nabucco",
+    "artist": "Giuseppe Verdi",
+    "history": "Premiered in 1842, this opera and its famous chorus became a symbol of Italian nationalism and longing for freedom during the Risorgimento.",
+    "philosophy": "Expresses themes of hope and yearning for liberation, symbolizing the collective spirit of a people."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Contemplative",
+    "song": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 (Moonlight Sonata): I. Adagio sostenuto",
+    "album": "Beethoven: Moonlight Sonata",
+    "artist": "Ludwig van Beethoven",
+    "history": "Completed in 1801 and dedicated to his pupil, Countess Giulietta Guicciardi, the work features a somber first movement that has become very popular.",
+    "philosophy": "Reflects an intimate, introspective journey, embodying the profound serenity and complexity of emotions."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Serene",
+    "song": "Canon in D Major",
+    "album": "Pachelbel: Canon in D",
+    "artist": "Johann Pachelbel",
+    "history": "Composed around 1680, Pachelbel's Canon is one of the most recognized pieces of baroque music, often played at weddings and other celebrations.",
+    "philosophy": "Symbolizes enduring beauty and the cyclical nature of life, promoting peace and tranquility."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Epic",
+    "song": "The Valkyrie: Ride of the Valkyries",
+    "album": "Wagner: The Valkyrie",
+    "artist": "Richard Wagner",
+    "history": "Part of Wagner's Ring Cycle, composed between 1851 and 1856, this piece has become famous in popular culture for its dramatic energy and use in films.",
+    "philosophy": "Evokes the relentless drive and determination of the mythical Valkyries, symbolizing the battle and valor."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Reflective",
+    "song": "Glassworks: Opening",
+    "album": "Philip Glass: Glassworks",
+    "artist": "Philip Glass",
+    "history": "Composed in 1981, Glassworks is a six-part chamber music work by Philip Glass, intended to introduce his music to a more general audience.",
+    "philosophy": "Encapsulates the repetitive, mesmerizing patterns of minimalism, inviting meditation and introspection."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Soothing",
+    "song": "Nocturne in E-Flat Major, Op. 9 No. 2",
+    "album": "Chopin: Nocturnes",
+    "artist": "Frédéric Chopin",
+    "history": "Published in 1832, the Nocturnes Op. 9 are among Chopin's first published works, showcasing the lyrical and expressive qualities of his composition style.",
+    "philosophy": "Expresses the gentle flow of time and the melancholic beauty of night."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Calm",
+    "song": "Spiegel im Spiegel",
+    "album": "Arvo Pärt: Spiegel im Spiegel",
+    "artist": "Arvo Pärt",
+    "history": "Composed in 1978, this piece is one of the most prominent examples of Pärt's tintinnabuli style, characterized by simple harmonic structure and melodic lines.",
+    "philosophy": "Reflects on the simplicity and purity of sound, creating a mirror-like connection between sound and silence."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Elegant",
+    "song": "Boléro",
+    "album": "Ravel: Boléro",
+    "artist": "Maurice Ravel",
+    "history": "Composed in 1928, Boléro is Ravel's most famous musical composition, noted for its progressive crescendo.",
+    "philosophy": "Symbolizes the relentless power of obsession and the beauty of a single, evolving theme."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Dramatic",
+    "song": "Symphony No. 40 in G Minor, KV. 550",
+    "album": "Mozart: Symphony No. 40",
+    "artist": "Wolfgang Amadeus Mozart",
+    "history": "Composed in 1788, one of Mozart’s last three symphonies and one of his most enduring works, known for its expressive intensity.",
+    "philosophy": "Reflects the complexities of human emotion, highlighting tension and resolution."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Majestic",
+    "song": "Symphony No. 9 'From the New World', Op. 95, B. 178",
+    "album": "Dvořák: Symphony No. 9",
+    "artist": "Antonín Dvořák",
+    "history": "Composed in 1893 while Dvořák was in the United States, this symphony draws on both American folk music and African-American spirituals.",
+    "philosophy": "Embodies themes of discovery and exploration, merging different cultural influences."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Solemn",
+    "song": "Piano Concerto No. 5 in E-flat major, Op. 73 'Emperor'",
+    "album": "Beethoven: Piano Concerto No. 5",
+    "artist": "Ludwig van Beethoven",
+    "history": "Composed in 1809 during the Napoleonic Wars, the 'Emperor' Concerto is Beethoven’s last completed piano concerto.",
+    "philosophy": "Conveys a sense of triumph and grandeur, often associated with the spirit of heroism."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Reflective",
+    "song": "Prelude in C-sharp minor, Op. 3 No. 2",
+    "album": "Rachmaninoff: Preludes",
+    "artist": "Sergei Rachmaninoff",
+    "history": "Composed in 1892, this piece is one of Rachmaninoff's most famous compositions, known for its deep, melancholic tone.",
+    "philosophy": "Captures a mood of resignation and introspective sorrow."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Vibrant",
+    "song": "Overture to 'The Marriage of Figaro', K. 492",
+    "album": "Mozart: The Marriage of Figaro",
+    "artist": "Wolfgang Amadeus Mozart",
+    "history": "Composed in 1786, this opera buffa is one of Mozart’s best-known works and was based on a controversial play that challenged the aristocracy.",
+    "philosophy": "Represents wit and sophistication, with an undercurrent of social critique."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Lyrical",
+    "song": "Violin Concerto in E Minor, Op. 64",
+    "album": "Mendelssohn: Violin Concerto",
+    "artist": "Felix Mendelssohn",
+    "history": "Composed in 1844, this concerto remains one of the most frequently performed violin concertos in history.",
+    "philosophy": "Exemplifies the ideals of the Romantic period, focusing on individual expression and emotion."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Ethereal",
+    "song": "The Lark Ascending",
+    "album": "Vaughan Williams: The Lark Ascending",
+    "artist": "Ralph Vaughan Williams",
+    "history": "Inspired by a poem by George Meredith, composed in 1914 and revised in 1920, it portrays the flight of a lark, becoming a symbol of the British pastoral and landscape.",
+    "philosophy": "Invokes a sense of serene escape and the beauty of nature."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Poignant",
+    "song": "Nocturne in C-sharp Minor, B. 49",
+    "album": "Chopin: Nocturnes",
+    "artist": "Frédéric Chopin",
+    "history": "Composed in 1830, this piece is one of Chopin’s earlier works and reflects his distinctive, expressive nocturne style.",
+    "philosophy": "Emphasizes deep introspection and the subtlety of emotional shifts."
+  },
+  {
+    "genre": "Classical",
+    "energy": "Expansive",
+    "song": "Also sprach Zarathustra, Op. 30",
+    "album": "Strauss: Also sprach Zarathustra",
+    "artist": "Richard Strauss",
+    "history": "Inspired by Nietzsche’s philosophical novel of the same name, composed in 1896, it is known for its opening sequence used famously in the film '2001: A Space Odyssey'.",
+    "philosophy": "Reflects on man’s quest for spiritual enlightenment and the joy of discovery."
+  },
+  {
+    "genre": "Pop/Rock",
+    "energy": "High",
+    "song": "Unstoppable",
+    "album": "This Is Acting",
+    "artist": "Sia",
+    "history": "Released in 2016, this song is often seen as an anthem for personal empowerment and resilience.",
+    "philosophy": "Emphasizes self-confidence and the strength to overcome obstacles."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Believer",
+    "album": "Evolve",
+    "artist": "Imagine Dragons",
+    "history": "Released in 2017, 'Believer' is known for its motivational tone and was used extensively in multimedia advertising.",
+    "philosophy": "Focuses on using pain and challenges as a catalyst for growth and transformation."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Moderate",
+    "song": "Fight Song",
+    "album": "Wildfire",
+    "artist": "Rachel Platten",
+    "history": "Released in 2015, this song became an anthem for many facing personal battles, symbolizing resilience and defiance.",
+    "philosophy": "Captures the essence of fighting back even in the face of overwhelming odds."
+  },
+  {
+    "genre": "Rap",
+    "energy": "High",
+    "song": "Lose Yourself",
+    "album": "8 Mile Soundtrack",
+    "artist": "Eminem",
+    "history": "Released in 2002 as part of the soundtrack for the movie '8 Mile', where Eminem stars as the protagonist.",
+    "philosophy": "Encourages seizing the moment and not letting opportunities slip away."
+  },
+  {
+    "genre": "Pop/Rock",
+    "energy": "High",
+    "song": "Hall of Fame",
+    "album": "#3",
+    "artist": "The Script featuring will.i.am",
+    "history": "Released in 2012, this song inspires listeners to achieve their best and aim for greatness.",
+    "philosophy": "Promotes the idea that anyone can achieve their dreams with perseverance."
+  },
+  {
+    "genre": "Hip Hop",
+    "energy": "High",
+    "song": "Stronger",
+    "album": "Graduation",
+    "artist": "Kanye West",
+    "history": "Released in 2007, this track samples Daft Punk's 'Harder, Better, Faster, Stronger' and became an anthem for overcoming difficulties.",
+    "philosophy": "Focuses on growth and resilience, emphasizing that what doesn’t kill us makes us stronger."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Moderate",
+    "song": "Unwritten",
+    "album": "Unwritten",
+    "artist": "Natasha Bedingfield",
+    "history": "Released in 2004, this song encourages listeners to embrace the future and recognize that their story is not yet complete.",
+    "philosophy": "Suggests that the future is a blank page and that individuals have the power to shape their own destiny."
+  },
+  {
+    "genre": "Soul/R&B",
+    "energy": "High",
+    "song": "Rise Up",
+    "album": "Cheers to the Fall",
+    "artist": "Andra Day",
+    "history": "Released in 2015, this song quickly became an empowering anthem for overcoming adversity.",
+    "philosophy": "Promotes resilience and the ability to rise despite numerous setbacks."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Moderate",
+    "song": "Fix You",
+    "album": "X&Y",
+    "artist": "Coldplay",
+    "history": "Released in 2005, this song is often interpreted as a comforting message to someone in distress, offering hope and support.",
+    "philosophy": "Encourages healing and providing support to others during their darkest times."
+  },
+  {
+    "genre": "Alternative/Indie",
+    "energy": "High",
+    "song": "Shake It Out",
+    "album": "Ceremonials",
+    "artist": "Florence + The Machine",
+    "history": "Released in 2011, this song deals with the themes of regret and redemption.",
+    "philosophy": "Focuses on letting go of the past and finding solace in the liberation from one's inner demons."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Eye of the Tiger",
+    "album": "Eye of the Tiger",
+    "artist": "Survivor",
+    "history": "Released in 1982, famously known as the theme song for the movie 'Rocky III'.",
+    "philosophy": "Symbolizes the fighting spirit and determination needed to overcome challenges."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Don’t Stop Me Now",
+    "album": "Jazz",
+    "artist": "Queen",
+    "history": "Released in 1978, this song is one of Queen's most energetic and uplifting tracks, celebrating the joy of living.",
+    "philosophy": "Emphasizes living life to the fullest and unstoppable joy."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Heroes",
+    "album": "Heroes",
+    "artist": "David Bowie",
+    "history": "Released in 1977, inspired by the sight of Bowie's producer and his girlfriend kissing by the Berlin Wall.",
+    "philosophy": "Speaks to the heroism in ordinary people and the possibility of achieving the extraordinary amidst adversity."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Uprising",
+    "album": "The Resistance",
+    "artist": "Muse",
+    "history": "Released in 2009, it's known for its themes of revolution and change.",
+    "philosophy": "Calls for resistance and fighting for one’s rights against the forces of oppression."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Moderate",
+    "song": "Walk",
+    "album": "Wasting Light",
+    "artist": "Foo Fighters",
+    "history": "Released in 2011, the song reflects the challenges and revival after a difficult period in Dave Grohl's life.",
+    "philosophy": "Symbolizes perseverance and the journey to start over, step by step."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "In the End",
+    "album": "Hybrid Theory",
+    "artist": "Linkin Park",
+    "history": "Released in 2000, one of Linkin Park's most recognized songs, dealing with themes of realization and acceptance.",
+    "philosophy": "Conveys the idea that effort and perseverance might not always lead to success, but self-realization is valuable."
+  },
+  {
+    "genre": "Pop",
+    "energy": "High",
+    "song": "Survivor",
+    "album": "Survivor",
+    "artist": "Destiny's Child",
+    "history": "Released in 2001, inspired by a joke that the band was like the TV show 'Survivor' because members kept leaving.",
+    "philosophy": "Focuses on independence and the strength to overcome hardships and critics."
+  },
+  {
+    "genre": "R&B",
+    "energy": "High",
+    "song": "Girl on Fire",
+    "album": "Girl on Fire",
+    "artist": "Alicia Keys",
+    "history": "Released in 2012, this anthem was inspired by Keys' giving birth and a sense of newfound empowerment.",
+    "philosophy": "Celebrates female empowerment and the feeling of being unstoppable."
+  },
+  {
+    "genre": "Pop",
+    "energy": "High",
+    "song": "Run the World (Girls)",
+    "album": "4",
+    "artist": "Beyoncé",
+    "history": "Released in 2011, known for its powerful feminist theme.",
+    "philosophy": "Uplifts and emphasizes the empowerment of women and their ability to lead and make impactful changes."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Start Me Up",
+    "album": "Tattoo You",
+    "artist": "The Rolling Stones",
+    "history": "Released in 1981, originally recorded during the 1970s but not released until the 'Tattoo You' album.",
+    "philosophy": "Symbolizes a new beginning and the relentless drive to keep pushing forward."
+  },
+  {
+    "genre": "Pop",
+    "energy": "High",
+    "song": "Beautiful",
+    "album": "Stripped",
+    "artist": "Christina Aguilera",
+    "history": "Released in 2002, 'Beautiful' is celebrated for its message of self-acceptance and inner beauty.",
+    "philosophy": "Encourages listeners to embrace their true selves and ignore societal judgment."
+  },
+  {
+    "genre": "Pop",
+    "energy": "High",
+    "song": "Fire on Fire",
+    "album": "Watership Down Soundtrack",
+    "artist": "Sam Smith",
+    "history": "Released in 2018 as part of the soundtrack for the BBC adaptation of 'Watership Down'.",
+    "philosophy": "Describes the intensity and often destructive nature of love, paralleling personal struggles with acceptance."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Moderate",
+    "song": "Skyscraper",
+    "album": "Unbroken",
+    "artist": "Demi Lovato",
+    "history": "Released in 2011, this song is often seen as an anthem of personal resilience and recovery.",
+    "philosophy": "Symbolizes rising from adversity and reclaiming one's strength and dignity."
+  },
+  {
+    "genre": "Pop",
+    "energy": "High",
+    "song": "Roar",
+    "album": "Prism",
+    "artist": "Katy Perry",
+    "history": "Released in 2013, 'Roar' is known for its themes of empowerment and finding one's voice.",
+    "philosophy": "Encourages self-empowerment and speaking out against injustice."
+  },
+  {
+    "genre": "Pop",
+    "energy": "High",
+    "song": "Stronger (What Doesn’t Kill You)",
+    "album": "Stronger",
+    "artist": "Kelly Clarkson",
+    "history": "Released in 2011, inspired by the saying 'what doesn’t kill you makes you stronger'.",
+    "philosophy": "Focuses on personal growth through overcoming challenges."
+  },
+  {
+    "genre": "Pop",
+    "energy": "High",
+    "song": "Brave",
+    "album": "The Blessed Unrest",
+    "artist": "Sara Bareilles",
+    "history": "Released in 2013, this song was inspired by the struggles of a close friend who was coming to terms with his identity.",
+    "philosophy": "Promotes speaking one's truth and the courage to be oneself."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Moderate",
+    "song": "Gravity",
+    "album": "Continuum",
+    "artist": "John Mayer",
+    "history": "Released in 2006, 'Gravity' is about staying grounded and dealing with life's challenges.",
+    "philosophy": "Emphasizes the struggle against forces that try to bring us down."
+  },
+  {
+    "genre": "Pop/Soul",
+    "energy": "High",
+    "song": "Rolling in the Deep",
+    "album": "21",
+    "artist": "Adele",
+    "history": "Released in 2010, this song is a scorned lover's rebuke and showcases themes of betrayal and revenge.",
+    "philosophy": "Illustrates resilience and the determination to move forward from heartbreak."
+  },
+  {
+    "genre": "Pop",
+    "energy": "High",
+    "song": "Burn",
+    "album": "Halcyon Days",
+    "artist": "Ellie Goulding",
+    "history": "Released in 2013, 'Burn' is about letting go and embracing one's true potential.",
+    "philosophy": "Encourages listeners to shine brightly and not hold back their true selves."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Moderate",
+    "song": "Yellow Flicker Beat",
+    "album": "The Hunger Games: Mockingjay, Part 1 Soundtrack",
+    "artist": "Lorde",
+    "history": "Released in 2014 as part of the soundtrack for 'The Hunger Games: Mockingjay, Part 1'.",
+    "philosophy": "Represents the fiery spirit of rebellion and resilience against oppression."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Breaking the Habit",
+    "album": "Meteora",
+    "artist": "Linkin Park",
+    "history": "Released in 2003, this song deals with themes of inner struggles and personal change.",
+    "philosophy": "Explores the difficulties of breaking away from destructive habits and the journey towards self-improvement."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Bring Me To Life",
+    "album": "Fallen",
+    "artist": "Evanescence",
+    "history": "Released in 2003, this track became an anthem for many, symbolizing awakening and rediscovery.",
+    "philosophy": "Reflects on the need for something or someone to rekindle one's passion for life."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Decode",
+    "album": "Twilight Soundtrack",
+    "artist": "Paramore",
+    "history": "Released in 2008 as part of the soundtrack for the movie 'Twilight', reflecting themes of confusion and realization.",
+    "philosophy": "Deals with understanding one's true feelings and the complexities of hidden truths."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Moderate",
+    "song": "Boulevard of Broken Dreams",
+    "album": "American Idiot",
+    "artist": "Green Day",
+    "history": "Released in 2004, this song speaks to feelings of loneliness and disillusionment.",
+    "philosophy": "Captures the essence of solitary introspection and the journey through a metaphorical desolate path."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Smells Like Teen Spirit",
+    "album": "Nevermind",
+    "artist": "Nirvana",
+    "history": "Released in 1991, it became an anthem of teenage disillusionment and a pivotal song of the grunge movement.",
+    "philosophy": "Symbolizes rebellion against the status quo and the struggles of the youth."
+  },
+  {
+    "genre": "Metal",
+    "energy": "High",
+    "song": "Nothing Else Matters",
+    "album": "Metallica",
+    "artist": "Metallica",
+    "history": "Released in 1991, this ballad was a stylistic departure for the band, exploring themes of love and personal growth.",
+    "philosophy": "Focuses on the significance of staying true to oneself and the priorities that really matter in life."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Can’t Stop",
+    "album": "By the Way",
+    "artist": "Red Hot Chili Peppers",
+    "history": "Released in 2002, the song is known for its upbeat energy and philosophical lyrics.",
+    "philosophy": "Expresses the unstoppable nature of creativity and the drive to express oneself."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Hurt",
+    "album": "The Downward Spiral",
+    "artist": "Nine Inch Nails",
+    "history": "Released in 1994, later famously covered by Johnny Cash, 'Hurt' is an introspective reflection on pain and redemption.",
+    "philosophy": "Delves into personal loss and regret, exploring the depths of human emotion and the possibility of healing."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "The Sound of Silence",
+    "album": "Immortalized",
+    "artist": "Disturbed",
+    "history": "Released in 2015, this is a cover of Simon & Garfunkel’s classic, reinterpreted with a heavy, emotive impact.",
+    "philosophy": "Highlights themes of isolation and the failure to communicate in modern society."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Chop Suey!",
+    "album": "Toxicity",
+    "artist": "System of a Down",
+    "history": "Released in 2001, this song is known for its abrupt changes and experimental style.",
+    "philosophy": "Addresses themes of sudden loss and the existential questions that arise from mortality."
+  },
+  {
+    "genre": "Country",
+    "energy": "Moderate",
+    "song": "9 to 5",
+    "album": "9 to 5 and Odd Jobs",
+    "artist": "Dolly Parton",
+    "history": "Released in 1980, this song became an anthem for office workers worldwide, discussing the grind of daily work and personal empowerment.",
+    "philosophy": "Highlights the resilience of everyday workers and the pursuit of personal dignity amidst mundane routines."
+  },
+  {
+    "genre": "Pop",
+    "energy": "High",
+    "song": "Born This Way",
+    "album": "Born This Way",
+    "artist": "Lady Gaga",
+    "history": "Released in 2011, 'Born This Way' quickly became a cultural phenomenon, celebrated for its embrace of uniqueness and identity.",
+    "philosophy": "Promotes self-acceptance and the affirmation of one's inherent worth regardless of race, gender, or sexuality."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Moderate",
+    "song": "Express Yourself",
+    "album": "Like a Prayer",
+    "artist": "Madonna",
+    "history": "Released in 1989, this song is known for its message of self-expression and empowerment, especially for women.",
+    "philosophy": "Encourages listeners to speak their minds and assert their individuality."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "I’m Still Standing",
+    "album": "Too Low for Zero",
+    "artist": "Elton John",
+    "history": "Released in 1983, this song is a jubilant celebration of survival and resilience after personal hardships.",
+    "philosophy": "Symbolizes the joy and pride in overcoming life's challenges and proving one's detractors wrong."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "It’s My Life",
+    "album": "Crush",
+    "artist": "Bon Jovi",
+    "history": "Released in 2000, 'It’s My Life' is often seen as a revival hit for Bon Jovi, appealing to a new generation with its message of taking control of one's destiny.",
+    "philosophy": "Stresses the importance of living authentically and making decisions that reflect one's own values and desires."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Born to Run",
+    "album": "Born to Run",
+    "artist": "Bruce Springsteen",
+    "history": "Released in 1975, this song is a staple of Springsteen’s repertoire, depicting the urgent desire to escape and chase one's dreams.",
+    "philosophy": "Explores themes of freedom and the pursuit of a better life beyond societal constraints."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Dream On",
+    "album": "Aerosmith",
+    "artist": "Aerosmith",
+    "history": "Released in 1973, this was Aerosmith's debut single, which later became one of their signature songs.",
+    "philosophy": "Emphasizes perseverance and the pursuit of dreams, no matter how far they seem."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Beautiful Day",
+    "album": "All That You Can't Leave Behind",
+    "artist": "U2",
+    "history": "Released in 2000, this song is known for its optimistic tone and was a commercial success worldwide.",
+    "philosophy": "Encourages appreciation of life's beauty even when faced with trouble, emphasizing resilience and hope."
+  },
+  {
+    "genre": "R&B/Soul",
+    "energy": "Moderate",
+    "song": "Superstition",
+    "album": "Talking Book",
+    "artist": "Stevie Wonder",
+    "history": "Released in 1972, this song is one of Stevie Wonder's most popular hits, known for its catchy beat and funky melody.",
+    "philosophy": "Addresses the dangers of believing in false superstitions and the importance of rational thought."
+  },
+  {
+    "genre": "Rock",
+    "energy": "High",
+    "song": "Don’t Stop Believin’",
+    "album": "Escape",
+    "artist": "Journey",
+    "history": "Released in 1981, this song became an anthem for persevering and holding on to one’s dreams.",
+    "philosophy": "Promotes a message of hope and encouragement to keep going despite difficulties."
+  },
+  {
+    "genre": "Folk/Rock",
+    "energy": "Reflective",
+    "song": "Blowin' in the Wind",
+    "album": "The Freewheelin' Bob Dylan",
+    "artist": "Bob Dylan",
+    "history": "Released in 1963, this song became an anthem for the 1960s civil rights and peace movements.",
+    "philosophy": "Poses rhetorical questions about peace, war, and freedom, challenging listeners to seek answers."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Thoughtful",
+    "song": "Imagine",
+    "album": "Imagine",
+    "artist": "John Lennon",
+    "history": "Released in 1971, 'Imagine' is one of John Lennon's most famous solo works, promoting a vision of world peace.",
+    "philosophy": "Encourages listeners to envision a world without boundaries or materialism, where peace prevails."
+  },
+  {
+    "genre": "Folk",
+    "energy": "Energizing",
+    "song": "Talkin' Bout a Revolution",
+    "album": "Tracy Chapman",
+    "artist": "Tracy Chapman",
+    "history": "Released in 1988, this song quickly became a protest anthem highlighting social injustices.",
+    "philosophy": "Calls for change and the empowerment of the downtrodden, urging a proactive stance against inequality."
+  },
+  {
+    "genre": "Soul",
+    "energy": "Provocative",
+    "song": "What's Going On",
+    "album": "What's Going On",
+    "artist": "Marvin Gaye",
+    "history": "Released in 1971, inspired by Marvin Gaye's brother's return from Vietnam and reflects deep concerns about social issues.",
+    "philosophy": "Addresses social unrest and advocates for compassion and understanding in turbulent times."
+  },
+  {
+    "genre": "Soul",
+    "energy": "Soulful",
+    "song": "A Change Is Gonna Come",
+    "album": "Ain't That Good News",
+    "artist": "Sam Cooke",
+    "history": "Released in 1964, this song was inspired by Cooke’s struggles with racism and became a key anthem of the Civil Rights Movement.",
+    "philosophy": "Expresses hope and confidence in the face of hardship and social injustice."
+  },
+  {
+    "genre": "Soul",
+    "energy": "Uplifting",
+    "song": "Respect",
+    "album": "I Never Loved a Man the Way I Love You",
+    "artist": "Aretha Franklin",
+    "history": "Released in 1967, originally written by Otis Redding. Franklin's version became a banner for feminism and civil rights.",
+    "philosophy": "Demands equality and respect for women, becoming a powerful call to action."
+  },
+  {
+    "genre": "Folk/Rock",
+    "energy": "Calm",
+    "song": "The Sound of Silence",
+    "album": "Wednesday Morning, 3 AM",
+    "artist": "Simon & Garfunkel",
+    "history": "Released in 1964, and became famous after being re-released as a single in 1965, addressing themes of alienation and lack of communication.",
+    "philosophy": "Illustrates the emotional and social distance that can exist between people, urging a return to genuine communication."
+  },
+  {
+    "genre": "Reggae",
+    "energy": "Reflective",
+    "song": "Redemption Song",
+    "album": "Uprising",
+    "artist": "Bob Marley",
+    "history": "Released in 1980, one of Bob Marley's final songs, it is considered one of his greatest works.",
+    "philosophy": "Calls for emancipation from mental slavery and oppression, emphasizing freedom and redemption."
+  },
+  {
+    "genre": "Folk/Rock",
+    "energy": "Meditative",
+    "song": "Hallelujah",
+    "album": "Various Positions",
+    "artist": "Leonard Cohen",
+    "history": "Written in 1984, 'Hallelujah' has been covered by over 300 artists in various languages, highlighting universal themes of love and loss.",
+    "philosophy": "Explores the complexities of faith and the human condition through biblical allusions."
+  },
+  {
+    "genre": "Folk/Rock",
+    "energy": "Harmonious",
+    "song": "Peace Train",
+    "album": "Teaser and the Firecat",
+    "artist": "Cat Stevens",
+    "history": "Released in 1971, this song is one of Cat Stevens' most beloved tracks, promoting hope and peaceful change.",
+    "philosophy": "Encourages optimism and the collective journey towards a more peaceful world."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Uplifting",
+    "song": "Greatest Love of All",
+    "album": "Whitney Houston",
+    "artist": "Whitney Houston",
+    "history": "Released in 1985, this song became one of Whitney Houston's biggest hits, originally recorded by George Benson for the Muhammad Ali biopic.",
+    "philosophy": "Emphasizes the importance of self-respect and believing in oneself as the foundation of one's ability to love others."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Emotional",
+    "song": "My Heart Will Go On",
+    "album": "Let's Talk About Love",
+    "artist": "Celine Dion",
+    "history": "Released in 1997 as the main theme for the blockbuster film 'Titanic'.",
+    "philosophy": "Symbolizes enduring love and remembrance, even after great loss."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Romantic",
+    "song": "Perfect",
+    "album": "÷ (Divide)",
+    "artist": "Ed Sheeran",
+    "history": "Released in 2017, this song quickly became a wedding favorite around the world.",
+    "philosophy": "Celebrates finding a perfect love that feels predestined and everlasting."
+  },
+  {
+    "genre": "Soul",
+    "energy": "Deep",
+    "song": "Someone Like You",
+    "album": "21",
+    "artist": "Adele",
+    "history": "Released in 2011, it became one of Adele's signature songs, detailing the emotions following a breakup.",
+    "philosophy": "Explores themes of loss, nostalgia, and the bittersweet reality of moving on."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Intimate",
+    "song": "Yellow",
+    "album": "Parachutes",
+    "artist": "Coldplay",
+    "history": "Released in 2000, 'Yellow' became Coldplay's breakthrough hit, often interpreted as a simple yet profound love song.",
+    "philosophy": "Conveys adoration and commitment, seeing the beloved in an almost divine light."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Loving",
+    "song": "Your Song",
+    "album": "Elton John",
+    "artist": "Elton John",
+    "history": "Released in 1970, this song helped catapult Elton John's career into stardom, praised for its heartfelt lyrics and melody.",
+    "philosophy": "Expresses sincere and humble love, offering a song as a gift of deep affection."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Joyful",
+    "song": "All You Need Is Love",
+    "album": "Magical Mystery Tour",
+    "artist": "The Beatles",
+    "history": "Released in 1967, this song was performed by The Beatles as Britain's contribution to 'Our World', the first live global television link.",
+    "philosophy": "Promotes love as the most powerful and fulfilling human experience."
+  },
+  {
+    "genre": "Soul",
+    "energy": "Romantic",
+    "song": "At Last",
+    "album": "At Last!",
+    "artist": "Etta James",
+    "history": "Originally written in 1941, Etta James' rendition was released in 1960 and became the most famous version of the song.",
+    "philosophy": "Captures the profound relief and joy of finding true love."
+  },
+  {
+    "genre": "Jazz",
+    "energy": "Heartwarming",
+    "song": "What A Wonderful World",
+    "album": "What A Wonderful World",
+    "artist": "Louis Armstrong",
+    "history": "Released in 1967 during a period of intense racial and political strife in the U.S.",
+    "philosophy": "Offers a hopeful perspective on life's beauty and the inherent goodness of the world."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Inspiring",
+    "song": "Heal the World",
+    "album": "Dangerous",
+    "artist": "Michael Jackson",
+    "history": "Released in 1991, this song is part of Michael Jackson's wider humanitarian efforts.",
+    "philosophy": "Encourages global harmony and the importance of caring for and improving the world."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Reflective",
+    "song": "Landslide",
+    "album": "Fleetwood Mac",
+    "artist": "Fleetwood Mac",
+    "history": "Released in 1975, written by Stevie Nicks, 'Landslide' explores personal change and the passage of time.",
+    "philosophy": "Examines self-reflection and the emotional impact of life's transitions."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Contemplative",
+    "song": "Hotel California",
+    "album": "Hotel California",
+    "artist": "Eagles",
+    "history": "Released in 1976, this song quickly became one of the band's most famous tracks, known for its distinctive guitar sequence and surreal lyrics.",
+    "philosophy": "Symbolizes the excess and decadence of the era, exploring themes of hedonism and self-destruction."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Soothing",
+    "song": "Let It Be",
+    "album": "Let It Be",
+    "artist": "The Beatles",
+    "history": "Released in 1970, inspired by Paul McCartney’s dream about his mother during the tumultuous period surrounding the band's breakup.",
+    "philosophy": "Offers a message of acceptance and the peace found in letting things unfold naturally."
+  },
+  {
+    "genre": "Country",
+    "energy": "Poignant",
+    "song": "Hurt",
+    "album": "American IV: The Man Comes Around",
+    "artist": "Johnny Cash",
+    "history": "Johnny Cash covered this Nine Inch Nails song in 2002, shortly before his death, lending it a powerful sense of finality and reflection.",
+    "philosophy": "Conveys deep introspection about life, regrets, and the human condition."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Melancholic",
+    "song": "Wish You Were Here",
+    "album": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "history": "Released in 1975, this song is a tribute to former band member Syd Barrett, whose mental health struggles had led to his departure from the band.",
+    "philosophy": "Explores themes of absence, loss, and the desire for companionship."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Mystical",
+    "song": "Riders on the Storm",
+    "album": "L.A. Woman",
+    "artist": "The Doors",
+    "history": "Released in 1971, this song was one of the last tracks recorded by the Doors before Jim Morrison's death.",
+    "philosophy": "Evokes a sense of impending change and the uncontrollable forces of nature and life."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Reflective",
+    "song": "Heart of Gold",
+    "album": "Harvest",
+    "artist": "Neil Young",
+    "history": "Released in 1972, 'Heart of Gold' is celebrated for its earnest lyrics and simple, compelling melody.",
+    "philosophy": "Speaks to the universal search for compassion and the genuine human connections that enrich our lives."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Nostalgic",
+    "song": "The River",
+    "album": "The River",
+    "artist": "Bruce Springsteen",
+    "history": "Released in 1980, this song draws on Springsteen’s personal experiences and the struggles of working-class Americans.",
+    "philosophy": "Reflects on the loss of innocence and the harsh realities of life that confront many people."
+  },
+  {
+    "genre": "Folk/Rock",
+    "energy": "Comforting",
+    "song": "Bridge Over Troubled Water",
+    "album": "Bridge Over Troubled Water",
+    "artist": "Simon & Garfunkel",
+    "history": "Released in 1970, this song became one of the duo's most famous hits, known for its soothing melody and supportive lyrics.",
+    "philosophy": "Offers a message of hope and reassurance, promising support during difficult times."
+  },
+  {
+    "genre": "Soul",
+    "energy": "Supportive",
+    "song": "Lean on Me",
+    "album": "Still Bill",
+    "artist": "Bill Withers",
+    "history": "Released in 1972, this song is an enduring classic that emphasizes the importance of friendship and mutual support.",
+    "philosophy": "Promotes the idea that we all need help sometimes and that community and togetherness are vital."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Inspiring",
+    "song": "The Climb",
+    "album": "Hannah Montana: The Movie",
+    "artist": "Miley Cyrus",
+    "history": "Released in 2009, this song became an anthem for overcoming obstacles and reaching one's goals.",
+    "philosophy": "Emphasizes the journey and personal growth experienced through facing challenges."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Energetic",
+    "song": "Shake It Off",
+    "album": "1989",
+    "artist": "Taylor Swift",
+    "history": "Released in 2014, this song marks Taylor Swift's explicit shift from country to pop and is a declaration of independence from her critics.",
+    "philosophy": "Promotes resilience and the importance of letting go of negativity."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Joyful",
+    "song": "Happy",
+    "album": "Despicable Me 2 Soundtrack",
+    "artist": "Pharrell Williams",
+    "history": "Released in 2013, 'Happy' became a global hit, known for its infectious beat and joyful video featuring people dancing.",
+    "philosophy": "Encourages finding joy in life's simple moments and spreading happiness to others."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Vibrant",
+    "song": "Firework",
+    "album": "Teenage Dream",
+    "artist": "Katy Perry",
+    "history": "Released in 2010, this song is an empowerment anthem, encouraging listeners to embrace their uniqueness.",
+    "philosophy": "Uses the metaphor of fireworks to suggest that everyone has the potential to shine brightly."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Uplifting",
+    "song": "Diamonds",
+    "album": "Unapologetic",
+    "artist": "Rihanna",
+    "history": "Released in 2012, 'Diamonds' is a powerful ballad that showcases Rihanna's vocal strength.",
+    "philosophy": "Highlights resilience and the ability to shine under pressure, much like diamonds."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Motivational",
+    "song": "Can’t Stop the Feeling!",
+    "album": "Trolls Soundtrack",
+    "artist": "Justin Timberlake",
+    "history": "Released in 2016, this song was used for the movie 'Trolls' and became a summer hit with its upbeat, dance-worthy sound.",
+    "philosophy": "Encourages letting go of inhibitions and enjoying the moment through dance and music."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Empowering",
+    "song": "Don’t Start Now",
+    "album": "Future Nostalgia",
+    "artist": "Dua Lipa",
+    "history": "Released in 2019, this song marked a new era for Dua Lipa with its disco-pop vibes and strong vocals.",
+    "philosophy": "Focuses on moving on from past relationships and finding strength in independence."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Resilient",
+    "song": "In My Blood",
+    "album": "Shawn Mendes",
+    "artist": "Shawn Mendes",
+    "history": "Released in 2018, this song discusses struggles with anxiety and the determination to overcome them.",
+    "philosophy": "Emphasizes the internal fight to stay strong and the refusal to give up in the face of personal challenges."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Hopeful",
+    "song": "No Tears Left to Cry",
+    "album": "Sweetener",
+    "artist": "Ariana Grande",
+    "history": "Released in 2018, this song represents Ariana Grande's return to music after the Manchester concert attack.",
+    "philosophy": "Portrays resilience and the choice to adopt a positive outlook after a tragedy."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Dynamic",
+    "song": "Chandelier",
+    "album": "1000 Forms of Fear",
+    "artist": "Sia",
+    "history": "Released in 2014, 'Chandelier' is a powerful song that deals with themes of struggle and the desire to escape pain.",
+    "philosophy": "Explores the intense emotions and turmoil of someone battling with their inner demons and personal challenges."
+  },
+  {
+    "genre": "Funk/Pop",
+    "energy": "Energetic",
+    "song": "Celebration",
+    "album": "Celebrate!",
+    "artist": "Kool & The Gang",
+    "history": "Released in 1980, this song became an anthem for celebrations and joyful gatherings around the world.",
+    "philosophy": "Encourages celebrating life's victories and special moments with joy and enthusiasm."
+  },
+  {
+    "genre": "Funk",
+    "energy": "Uplifting",
+    "song": "September",
+    "album": "The Best of Earth, Wind & Fire, Vol. 1",
+    "artist": "Earth, Wind & Fire",
+    "history": "Released in 1978, known for its catchy hook and rhythmic beat, this song remains a staple at many celebratory events.",
+    "philosophy": "Evokes nostalgia and happiness, reminding listeners of good times and urging them to dance and enjoy the moment."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Joyful",
+    "song": "Dancing Queen",
+    "album": "Arrival",
+    "artist": "ABBA",
+    "history": "Released in 1976, this track is one of ABBA's biggest hits, known worldwide as a disco classic.",
+    "philosophy": "Celebrates youth, freedom, and the joy of dancing, embodying the spirit of carefree enjoyment."
+  },
+  {
+    "genre": "Disco",
+    "energy": "Empowering",
+    "song": "I Will Survive",
+    "album": "Love Tracks",
+    "artist": "Gloria Gaynor",
+    "history": "Released in 1978, originally a B-side, it soon became a disco anthem and a symbol of female empowerment.",
+    "philosophy": "Represents strength and resilience, especially in overcoming heartbreak and adversity."
+  },
+  {
+    "genre": "Funk/Pop",
+    "energy": "Vibrant",
+    "song": "Uptown Funk",
+    "album": "Uptown Special",
+    "artist": "Mark Ronson ft. Bruno Mars",
+    "history": "Released in 2014, this song became a global phenomenon, praised for its catchy beat and retro style.",
+    "philosophy": "Combines classic funk with modern elements, celebrating fun and style with high energy."
+  },
+  {
+    "genre": "Electronic",
+    "energy": "Lively",
+    "song": "Get Lucky",
+    "album": "Random Access Memories",
+    "artist": "Daft Punk ft. Pharrell Williams",
+    "history": "Released in 2013, known for its smooth disco-funk sound, it became one of the summer's biggest hits.",
+    "philosophy": "Talks about the serendipity of good fortune and enjoying the moments of unexpected luck in life."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Energetic",
+    "song": "Hey Ya!",
+    "album": "Speakerboxxx/The Love Below",
+    "artist": "OutKast",
+    "history": "Released in 2003, this song became an instant hit, known for its catchy rhythm and unique style.",
+    "philosophy": "Mixes joyous beats with lyrics that explore the complexities of relationships, inviting listeners to dance away their troubles."
+  },
+  {
+    "genre": "Rock",
+    "energy": "Celebratory",
+    "song": "We Are the Champions",
+    "album": "News of the World",
+    "artist": "Queen",
+    "history": "Released in 1977, this song is one of Queen's most iconic tracks, often played at sporting events.",
+    "philosophy": "An anthem of victory and overcoming challenges, celebrating success after hardship."
+  },
+  {
+    "genre": "Pop",
+    "energy": "Uplifting",
+    "song": "I Gotta Feeling",
+    "album": "The E.N.D.",
+    "artist": "The Black Eyed Peas",
+    "history": "Released in 2009, this song became a party anthem, known for its optimistic lyrics and catchy melody.",
+    "philosophy": "Promotes a sense of anticipation and excitement, encouraging listeners to let go and have fun."
+  },
+  {
+    "genre": "R&B",
+    "energy": "Inspiring",
+    "song": "Freedom",
+    "album": "Lemonade",
+    "artist": "Beyoncé",
+    "history": "Released in 2016, featuring powerful vocals and impactful lyrics, this track is part of Beyoncé's critically acclaimed album 'Lemonade'.",
+    "philosophy": "Focuses on the themes of liberation and empowerment, particularly in the context of social justice and personal autonomy."
+  }
+]
